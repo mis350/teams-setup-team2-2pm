@@ -1,20 +1,21 @@
-**The Project will be an application that brings together dermanotolgy, laser and skin care clinics in kuwait
-in one place, making it easier for pations to search and choose the suitable one for them. The clinics can
-advantage of the appointment system provided by the application, products gallery and advertising.**
+# Application Project
 
-**The App will content:**
-1. Profile for every clinic display information about it and location.
-2. Products gallery.
-3. Appointment system.
-4. Wish and favorite list.
-5. advertisements and offers.
+**The Project will be an application that brings together dermanotolgy, laser and skin care clinics in kuwait in one place, making it easier for pations to search and choose the suitable one for them. The clinics can advantage of the appointment system provided by the application, products gallery and advertising.**
 
- **App functions are:**
- 1. Clients can reviews and rating products and clinics.
- 2. They can reserve and scheduale appointments.
- 3. Advanced search.
- 4. sell skin care products.
+**Due to the large number of clinics in kuwait and some of them lack for organiz appointments and the marketing the application will be useful for both users.**
+
+
+## Requirements:
+
+- [ ] App will display a gallery for products.
+- [ ] User can buy skin care products.
+- [ ] App will show Profile for every clinic where display information about it and location.
+- [ ] User can reserve and schedule appointments.
+- [ ] User can review and rating products and clinics.
+- [ ] App will contain advanced search.
+- [ ] App will contain a wish and favorite list.
  
- **Due to the large number of clinics in kuwait and some of them lack for organiz appointments and the marketing
- the application will be useful for both users.**
  
+## ER-Diagram:
+
+![ER-Diagram (6)](https://user-images.githubusercontent.com/81977986/118828729-32306580-b8c6-11eb-8345-d4b6b6ff2416.jpeg)
